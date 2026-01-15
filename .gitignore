@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 .env
 protocol_monitor.db
+*.pdf
+VIDEO_SCRIPT.md
